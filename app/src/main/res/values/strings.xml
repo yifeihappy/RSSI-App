@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WiFi RSSI</string>
+    <string name="title_activity_rssi">RSSIActivity</string>
+</resources>
